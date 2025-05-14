@@ -94,6 +94,6 @@
     $(function() {
 
         $(".flatpickr-date").flatpickr();
-        $('#nik').mask('00.00.000');
+        // $('#nik').mask('00.00.000');
     });
 </script>
